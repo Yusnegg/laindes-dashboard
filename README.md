@@ -9,3 +9,10 @@
 <code>npm run build</code>
 
 <code>php artisan serve</code>
+
+
+<h2> - Usa estas herramientas</h2>
+
+<a href="https://github.com/jeroennoten/Laravel-AdminLTE/wiki/Installation">Admin LTE template</a>
+
+Laravel Breeze - Auth Login etc
